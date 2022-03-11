@@ -51,11 +51,11 @@
   -monitor software 
   
   -monitor infrastructure
-## 0.Infrastructure as a code
+## 10.Infrastructure as a code
   -infrastructure provisioning
   
   -configuration management
 ## 11.Scripting Language
    -know a scripting language
-## 2.Version Control
+## 12.Version Control
    -Learn Git	
