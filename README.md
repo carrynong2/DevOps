@@ -1,8 +1,11 @@
 # Devops Engineer roadmap 
 ## 1.Concept of software development
-  # -How developers work
+  -How developers work
+  
   -Which Git Workflow
+  
   -How application is configured
+  
   -Automated Testing
 ## 2.Operating System & Linux Basics
   -Linux Basics
